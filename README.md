@@ -1,5 +1,5 @@
 # data_visualization_with-_ggplot_using_R
-# this file is coming from DQLAB 
+# this file is coming from DQLAB (online course where I am learning about data science) 
 # first I am going to share how to make pivot
 
 -library(tidyr
