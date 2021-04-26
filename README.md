@@ -1,8 +1,8 @@
 # data_visualization_with-_ggplot_using_R
-# this file is coming from DQLAB (online course where I am learning about data science) 
+# this library is using for making data visualization
 # first I am going to share how to make pivot
 
--library(tidyr
+-library(tidyr)
 -library(dplyr)
 -glimpse(road)
 -road <- 
